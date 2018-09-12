@@ -3,7 +3,7 @@ Ivan's App
 This app displays a "Hello From Ivan", and you can change the bakcground color, text color, and the text in the box by tapping on the buttons. It also resets everything to normal when you click on the background.
 
 ### App Walk-though
-https://s3.amazonaws.com/img0.recordit.co/irSV1JXkl2.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1536793426&Signature=26hOh%2FM8SoQkgus30JsD6wZ30Ls%3D.gif
+https://s3.amazonaws.com/img0.recordit.co/irSV1JXkl2.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1536793426&Signature=26hOh%2FM8SoQkgus30JsD6wZ30Ls%3D
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
